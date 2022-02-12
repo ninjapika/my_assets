@@ -3,7 +3,7 @@
 # Header 1
 Pokeos Logo
 
-![Image](https://github.com/ninjapika/my_assets/logos/pokeos/pokelogo.jpg)
+![Image](https://github.com/ninjapika/my_assets/blob/main/logo/pokeos/pokelogo.jpg)
 
 ### Markdown
 
