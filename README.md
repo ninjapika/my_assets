@@ -1,5 +1,9 @@
 ## Welcome to Ninja's Site
 
+# Header 1
+Pokeos Logo
+
+![Image](https://github.com/ninjapika/my_assets/logos/pokeos/pokelogo.jpg)
 
 ### Markdown
 
@@ -8,10 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-Pokeos Logo
 
-![Image](https://github.com/ninjapika/my_assets/logos/pokeos/pokelogo.jpg)
 
 ## Header 2
 ### Header 3
